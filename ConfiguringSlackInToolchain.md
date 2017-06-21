@@ -1,23 +1,21 @@
-# Configure PagerDuty Integration
+# Configure Slack Integration
 
 # Objective
-This lab show how to integrate your toolchain with PagerDuty so teams get notified when things go wrong so problems can be fixed faster and reduce downtime.
+This lab show how to integrate your toolchain with Slack to collaborate with your team and receive notifications about your test and deployment activities.
 
 ## Prerequisites
-If you want to see email notifications from PagerDuty, you will need access to an eMail account.  Once the integration is created, you can check that account to accept the invitation to join PagerDuty and to see alerts from PagerDuty.
+You need the personal Slack ID you used in **Getting Ready for the DevTest DevOps Lab**.
 
 **Tasks**:
-- [Task 1: Configure PagerDuty in Toolchain](#task-1-configure-pagerduty-in-toolchain)
+- [Task 1: Configure Slack in Toolchain](#task-1-configure-slack-in-toolchain)
 
-## Task 1: Configure PagerDuty in Toolchain
-As a developer or operations person, you may want to be notified of the status of code deployments.  One way to be alerted  is to integrate third-party tools such as [PagerDuty](https://www.pagerduty.com/).  IBM Bluemix has made it easy to add PagerDuty integration into a Toolchain so the teams such as development or operations are notified of the status of deployments.
+## Task 1: Configure Slack in Toolchain
 
-**Note:** The PagerDuty integration feature is not created by, affiliated with, or supported by PagerDuty, Inc.
-**Note:** These steps are to be used for the **Configure PagerDuty** steps in:
+**Note:** These steps are to be used for the **Configure Slack** steps in:
 
 https://www.ibm.com/devops/method/tutorials/tutorial_toolchain_microservices_cd?task=1
 
-1 In a seperate browser tab, enter the following URL: [http://ibm.biz/PagerDutyAPIKey]http://ibm.biz/PagerDutyAPIKey.
+1 In a seperate browser tab, enter the following URL: [http://ibm.biz/SlackWebhooks]http://ibm.biz/SlackWebHooks.
 2. Copy the API key (the screenshot is a sample, the actual API key may be different)
 ![CreatePDIntegrationAPIKey](screenshots/CreatePDIntegrationAPIKey.png)
 2. Return to the **Create a Toolchain** bwoswer tab.
