@@ -16,22 +16,24 @@ You need the personal Slack ID you used in **Getting Ready for the DevTest DevOp
 https://www.ibm.com/devops/method/tutorials/tutorial_toolchain_microservices_cd?task=1
 
 1 In a seperate browser tab, enter the following URL: [http://ibm.biz/SlackWebhooks]http://ibm.biz/SlackWebHooks.
-2. Copy the API key (the screenshot is a sample, the actual API key may be different)
-![CreatePDIntegrationAPIKey](screenshots/CreatePDIntegrationAPIKey.png)
-2. Return to the **Create a Toolchain** bwoswer tab.
-3. On the toolchain's Overview page, click **PagerDuty**.
-3. On the PagerDuty Configuration page:
-   - Paste the API key you just copied into the API access key field
-   - Enter "devopslab" as the PagerDuty service name
-   - Enter an email address you can access.  Leave the phone number blank.  PagerDuty has a place for you to enter your phone number if you want to receive text messages or receive phone calls.
-![CreatePDIntegration](screenshots/CreatePDIntegration.png)
-4. Click **Create**
-5. You can access the eMail account to accept the PagerDuty invitation.
+2. Copy the relevant Slack webhook URL based on the location of your training.
+![CreateSlackIntegrationWebhooks](screenshots/CreateSlackIntegrationWebhooks.png)
+They are also listed below if you prefer to type.
 
-  ![PagerDutyInvite](screenshots/PagerDutyInvite.jpg)
+- madrid_demolab_devops    https://hooks.slack.com/services/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
+- montp_demolab_devops     https://hooks.slack.com/services/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
+- dallas_demolab_devops    https://hooks.slack.com/services/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
+- ny_demolab_devops        https://hooks.slack.com/services/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
 
-6. You can enter your phone information into your PagerDuty account (if you have one).  If you do this, you will get text messages and/or phone calls, depending on where you entered your phone number.  Normal messaging rates apply.
+2. Return to the **Create a Toolchain** broswer tab.
+3. On the toolchain's Overview page, click **Slack**.
+3. On the Slack Configuration page:
+   - Paste the SLack webhook URL API key you just copied into the Slack webhook field
+   - Enter the relevant channel based on the location of your training into the Slack channel field.
+     - madrid_demolab_devops
+     - montp_demolab_devops
+     - dallas_demolab_devops
+     - ny_demolab_devops
+   - Enter **BluemixDevOpsLab** as the Slack team name.
 
-  ![PagerDutyPhone](screenshots/PagerDutyPhone.jpg)
-
-  The list of countries PagerDuty supports is at: [PagerDuty Country Support](https://support.pagerduty.com/hc/en-us/articles/202828860-Countries-PagerDuty-supports-for-SMS-and-phone-call-notifications)
+![CreateSlackIntegration](screenshots/CreateSlackIntegration.png)

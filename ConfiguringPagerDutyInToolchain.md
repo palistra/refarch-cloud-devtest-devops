@@ -17,10 +17,10 @@ As a developer or operations person, you may want to be notified of the status o
 
 https://www.ibm.com/devops/method/tutorials/tutorial_toolchain_microservices_cd?task=1
 
-1 In a seperate browser tab, enter the following URL: [http://ibm.biz/PagerDutyAPIKey]http://ibm.biz/PagerDutyAPIKey.
+1. In a seperate browser tab, enter the following URL: [http://ibm.biz/PagerDutyAPIKey]http://ibm.biz/PagerDutyAPIKey.
 2. Copy the API key (the screenshot is a sample, the actual API key may be different)
 ![CreatePDIntegrationAPIKey](screenshots/CreatePDIntegrationAPIKey.png)
-2. Return to the **Create a Toolchain** bwoswer tab.
+2. Return to the **Create a Toolchain** broswer tab.
 3. On the toolchain's Overview page, click **PagerDuty**.
 3. On the PagerDuty Configuration page:
    - Paste the API key you just copied into the API access key field
@@ -30,10 +30,10 @@ https://www.ibm.com/devops/method/tutorials/tutorial_toolchain_microservices_cd?
 4. Click **Create**
 5. You can access the eMail account to accept the PagerDuty invitation.
 
-  ![PagerDutyInvite](screenshots/PagerDutyInvite.jpg)
+  ![CreatePDIntegrationInvite](screenshots/CreatePDIntegrationInvite.png)
 
 6. You can enter your phone information into your PagerDuty account (if you have one).  If you do this, you will get text messages and/or phone calls, depending on where you entered your phone number.  Normal messaging rates apply.
 
-  ![PagerDutyPhone](screenshots/PagerDutyPhone.jpg)
+  ![CreatePDIntegrationPhone](screenshots/CreatePDIntegrationPhone.png)
 
   The list of countries PagerDuty supports is at: [PagerDuty Country Support](https://support.pagerduty.com/hc/en-us/articles/202828860-Countries-PagerDuty-supports-for-SMS-and-phone-call-notifications)
