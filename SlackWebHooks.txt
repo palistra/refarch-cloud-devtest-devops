@@ -1,4 +1,4 @@
-madrid_demolab_devops    dd
-montp_demolab_devops     dd
+madrid_demolab_devops    https://hooks.slack.com/services/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
+montp_demolab_devops     https://hooks.slack.com/services/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
 dallas_demolab_devops    https://hooks.slack.com/services/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
-ny_demolab_devops        dd
+ny_demolab_devops        https://hooks.slack.com/services/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
