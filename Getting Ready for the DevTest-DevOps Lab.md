@@ -60,7 +60,7 @@ Prior to running these labs, you must have access to a lab laptop, an active Blu
 1. In a web browser, go to the following URL:
   [https://saucelabs.com](https://saucelabs.com)
 2. Click **Free Trial**.
-3. Fill out the information and click **Creat Account**.
+3. Fill out the information and click **Create Account**.
 4. Go to your email account and accept the Sauce Labs trial account.
 
 ## Task 5: Set up Slack access
@@ -107,9 +107,3 @@ There are a number of ways to access Slack.  One is through the web browser, ano
 - ny_demolab_devops
 
 This channel will show all the messages the Toolchain sends to it.
-
-## Task 6: Set up Pager Duty access
-
-1. In a web browser, open a new tab and go to the following URL:
-
-   [https://signup.pagerduty.com/accounts/new](https://signup.pagerduty.com/accounts/new)

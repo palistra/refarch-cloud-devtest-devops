@@ -23,7 +23,7 @@ https://www.ibm.com/devops/method/tutorials/tutorial_toolchain_microservices_cd?
 2. Return to the **Create a Toolchain** broswer tab.
 3. On the toolchain's Overview page, click **PagerDuty**.
 3. On the PagerDuty Configuration page:
-   - Paste the API key you just copied into the API access key field
+   - Paste the API key you just copied into the API access key field (be careful of spaces)
    - Enter "devopslab" as the PagerDuty service name
    - Enter an email address you can access.  Leave the phone number blank.  PagerDuty has a place for you to enter your phone number if you want to receive text messages or receive phone calls.
 ![CreatePDIntegration](screenshots/CreatePDIntegration.png)
