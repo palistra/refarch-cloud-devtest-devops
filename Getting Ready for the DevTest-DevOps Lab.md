@@ -11,7 +11,6 @@ Prior to running these labs, you must have access to a lab laptop, an active Blu
 - [Task 3: Create GitHub account](#task-3-create-github-account)
 - [Task 4: Create a Sauce Labs account](#task-4-create-a-sauce-labs-account)
 - [Task 5: Set up Slack access](#task-5-set-up-slack-access)
-- [Task 6: Set up Pager Duty access](#task-5-set-up-pager-duty-access)
 
 ## Task 1: Create Bluemix trial account
 
@@ -99,7 +98,7 @@ There are a number of ways to access Slack.  One is through the web browser, ano
 
 ### Join appropriate channel
 
-1. Join the relevant channel based on the location of your training
+1. Join the relevant Slack channel based on the location of your training
 
 - madrid_demolab_devops
 - montp_demolab_devops
