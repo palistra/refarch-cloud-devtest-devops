@@ -1,6 +1,6 @@
 # Configure Slack Integration
 
-# Objective
+# Objective 
 This lab show how to integrate your toolchain with Slack to collaborate with your team and receive notifications about your test and deployment activities.
 
 ## Prerequisites

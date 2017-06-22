@@ -1,6 +1,6 @@
 # Configure PagerDuty Integration
 
-# Objective
+# Objective 
 This lab show how to integrate your toolchain with PagerDuty so teams get notified when things go wrong so problems can be fixed faster and reduce downtime.
 
 ## Prerequisites

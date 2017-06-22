@@ -1,6 +1,6 @@
 # Lab 0: Getting Ready for the DevTest DevOps Lab
 
-## Objective
+## Objective 
 This lab takes you through the various activities to prepare for the rest of the labs.
 
 Prior to running these labs, you must have access to a lab laptop, an active Bluemix account, a GitHub account and Slack access. Your Bluemix account needs to have an appropriate organization and spaces. Follow the steps in Lab 0 to set these up. _Note:_ If you need to login to the virtual machine running on the lab laptop, the ID is `localuser` and the password is `passw0rd`.
